@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @hottr25
-- 👀 I’m interested in software engineering, with a focus on web development!
-- 🌱 I’m currently learning how to use HTML5, CSS, and Javascript
-- 💞️ I’m looking to collaborate on my first project
 - 📫 How to reach me, my email is Robhott48@gmail.com
 
 <!---
