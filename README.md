@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hottr25
-- 📫 How to reach me, my email is Robhott48@gmail.com
+- 📫 How to reach me, my email is hottr25@gmail.com
 
 <!---
 hottr25/hottr25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
